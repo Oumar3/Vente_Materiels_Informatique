@@ -3,7 +3,7 @@
 #### Entreprise de vente des matériels informatiques  
 #### TAF :  
 ### 1) Faites la conception de vos base de données (minimum 7 tables)
-
+          # VenteMateriels_Informatique.sql 
 
 ### 2) différents acteurs possibles sont :
           # Clients,
