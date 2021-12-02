@@ -1,7 +1,7 @@
 # Vente_Materiels_Informatique
-##cBrief Projet 2 
-####Entreprise de vente des matériels informatiques  
-####TAF :  
+## Brief Projet 2 
+#### Entreprise de vente des matériels informatiques  
+#### TAF :  
 ### 1) Faites la conception de vos base de données (minimum 7 tables)
 
 
